@@ -25,6 +25,10 @@ h2 a{
     
 }
 
+a {
+    color: black;
+}
+
 article{
     width: 500px;
     margin-bottom: 40px;
